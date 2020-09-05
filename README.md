@@ -1,4 +1,10 @@
-# MySelf
+# Basic Flutter App
+- This is just a first app towards learning flutter. 
+- It's a basic building block of Flutter widgets
+
+##  Screenshot
+<br />
+<img width="400" height="800" src="assets/screenshot.jpg">
 
 A new Flutter project.
 
